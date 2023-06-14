@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\bin\Debug\RC4(1).exe.config
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\bin\Debug\RC4(1).exe
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\bin\Debug\RC4(1).pdb
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4(1).csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4_1_.Form1.resources
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4_1_.Properties.Resources.resources
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4(1).csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4(1).csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4(1).exe
+C:\Users\PC\source\repos\RC4(1)\RC4(1)\obj\Debug\RC4(1).pdb
